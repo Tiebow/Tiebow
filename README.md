@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thibault.lenclos@outlook.com**
 
-- 📄 Know about my experiences [shorturl.at/chlIO](shorturl.at/chlIO)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/tlenclos/)
 
 - ⚡ Fun fact **I have a background in sound engineering, VR and Woodworking**
 
