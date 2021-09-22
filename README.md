@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a passionate projet**
 
-- 💬 Ask me about **Ruby on Rails, SteamVR & Oculus**
+- 💬 Ask me about **Ruby on Rails, HTML, CSS & Javascript**
 
 - 📫 How to reach me **thibault.lenclos@outlook.com**
 
