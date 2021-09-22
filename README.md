@@ -13,7 +13,7 @@
 
 - 📄 Know about my [experiences](https://www.linkedin.com/in/tlenclos/)
 
-- ⚡ Fun fact **I have a background in sound engineering, VR and Woodworking**
+- ⚡ Fun fact: **I have a background in sound engineering, VR and Woodworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
