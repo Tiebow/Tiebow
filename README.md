@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Match Point](https://www.matchpoint.fun/)
 
-- 🌱 I’m currently learning **Ruby on Rails, Javascript, HTML / CSS**
+- 🌱 I’m currently learning **Ruby on Rails, Javascript, HTML & CSS**
 
 - 👯 I’m looking to collaborate on **a passionate projet**
 
-- 💬 Ask me about **Ruby on Rails, HTML, CSS & Javascript**
+- 💬 Ask me about **Ruby on Rails, Javascript, HTML & CSSt**
 
 - 📫 How to reach me **thibault.lenclos@outlook.com**
 
