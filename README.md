@@ -5,8 +5,6 @@
 
 - 🌱 I’m learning **Ruby on Rails, Javascript, HTML & CSS**
 
-- 👯 I’m looking to collaborate on **a passionate projet**
-
 - 💬 Ask me about **Ruby on Rails, Javascript, HTML & CSSt**
 
 - 📫 How to reach me **thibault.lenclos@outlook.com**
