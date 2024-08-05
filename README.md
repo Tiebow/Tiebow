@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thibault</h1>
-<h3 align="center">A passionate Solutions Engineer from Paris, France</h3>
-
-- 🔭 I’m currently working on [Match Point](https://www.matchpoint.fun/)
+<h3 align="center">A passionate Technical Escalation Engineer from Paris, France</h3>
 
 - 🌱 I’m learning **Ruby on Rails, Javascript, HTML & CSS**
 
@@ -11,7 +9,7 @@
 
 - 📄 Know about my [experiences](https://www.linkedin.com/in/tlenclos/)
 
-- ⚡ Fun fact: **I have a background in sound engineering, VR and Woodworking**
+- ⚡ Fun fact: **I have a background in sound engineering, Virtual Reality and Woodworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
